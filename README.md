@@ -4,7 +4,7 @@ They are:
 2. Websockets
 3. POST requests
 
-# 1. TSP sockets
+# 1. TСP sockets
 Usage of TSP sockets is the most difficult method of them. Here we have two scripts:
 1. client_server_1.py
 2. client_server_2.py
