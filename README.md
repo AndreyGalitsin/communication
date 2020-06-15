@@ -1,11 +1,11 @@
-# There are 3 most popular kinds of communication between different moduls which are usefull nowadays. 
+# There are 3 most popular kinds of communication between different modules which are usefull nowadays. 
 They are:
 1. TCP sockets
 2. Websockets
 3. POST requests
 
 # 1. TСP sockets
-Usage of TSP sockets is the most difficult method of them. Here we have two scripts:
+Usage of TCP sockets is the most difficult method of them. Here we have two scripts:
 1. client_server_1.py
 2. client_server_2.py
 
